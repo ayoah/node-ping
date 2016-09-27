@@ -1,11 +1,16 @@
 #Mark
 原来用写了个shell的脚本ping域名获取ip，速度非常慢
+
 用node改写后速度提高无数倍，挺好用
 
 usage:
+
 输入域名放在:data/sites.csv
+
 输出文件在:data/output.csv
+
 cmd: node /path/to/ping/ping.js
+
 #NODE-PING
 
 a ping wrapper for nodejs
