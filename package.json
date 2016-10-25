@@ -27,7 +27,8 @@
     "node": ">=0.6.2"
   },
   "dependencies": {
-    "q": "1.x"
+    "q": "1.x",
+    "commander": "2.9.0"
   },
   "devDependencies": {},
   "main": "index.js"
